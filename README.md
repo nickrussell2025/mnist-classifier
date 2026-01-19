@@ -20,7 +20,7 @@ Model can be tested on [Hugging Face spaces](https://huggingface.co/spaces/theBu
 A neural network trained on the MNIST dataset to classify handwritten digits (0-9). The model is deployed using Gradio with a drawing interface where users can sketch digits for prediction.
 
 ## EDA
-Please see mnist-eda.ipynb for details for EDA and model hyperparameter tuning
+Please see mnist-eda.ipynb for details of EDA and model hyperparameter tuning.
 
 ## Model Performance
 
