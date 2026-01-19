@@ -77,11 +77,6 @@ The model uses MNIST-standard preprocessing:
 3. Pad to 28×28 with 4-pixel border
 4. Normalize with MNIST mean (0.1307) and std (0.3081)
 
-## Known Issues
-
-- 3 is occasionally misclassified as 7 (75% test accuracy on hand-drawn digits)
-- Gradio Sketchpad clear button stops working after first use (upstream bug)
-
 ## Links
 
 - **Demo**: [HuggingFace Space URL - TBD]
