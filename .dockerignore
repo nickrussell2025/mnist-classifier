@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data
+data/
+*.npy
+
+# Notebooks
+notebook/
+*.ipynb
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Models
+*.pth
+!best_model_final.pth
+
+# Other
+.DS_Store
+*.log
