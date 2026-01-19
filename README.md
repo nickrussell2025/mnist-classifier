@@ -60,13 +60,13 @@ docker run -p 7860:7860 mnist-classifier
 
 ## Project Structure
 ```
-├── train.py              # Model training script
-├── predict.py            # Gradio inference interface
-├── best_model_final.pth  # Trained model weights
-├── pyproject.toml        # Python dependencies
-├── uv.lock              # Locked dependencies
-├── Dockerfile           # Container configuration
-└── README.md            # This file
+├── train.py                # Model training script
+├── predict.py              # Gradio inference interface
+├── best_model_final.pth    # Trained model weights
+├── pyproject.toml          # Python dependencies
+├── uv.lock                 # Locked dependencies
+├── Dockerfile              # Container configuration
+└── README.md
 ```
 
 ## Preprocessing Pipeline
