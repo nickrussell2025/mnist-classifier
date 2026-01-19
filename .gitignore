@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
-data/
-notebook/
 .python-version
 .venv/
 *.pth
 !best_model_final.pth
+/data
+/mnist-classifier
