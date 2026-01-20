@@ -15,6 +15,8 @@ ML Zoomcamp 2025 Capstone Project - Handwritten digit recognition using PyTorch.
 
 Model can be tested on [Hugging Face spaces](https://huggingface.co/spaces/theBuggersMuddle/mnist-classifier)
 
+**Please note: the Hugging Face Space may take a few minutes to activate**
+
 ## Project Overview
 
 A neural network trained on the MNIST dataset to classify handwritten digits (0-9). The model is deployed using Gradio with a drawing interface where users can sketch digits for prediction.
